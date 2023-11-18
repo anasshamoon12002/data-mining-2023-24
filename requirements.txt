@@ -5,3 +5,8 @@ scipy
 matplotlib
 scikit-learn
 missingno
+plotly
+jupyterlab>=3 
+ipywidgets>=7.6
+plotly-geo
+notebook

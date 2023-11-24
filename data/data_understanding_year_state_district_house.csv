@@ -1,4 +1,4 @@
-year,state,congressional_district,party,candidatevotes,totalvotes,state_district
+year,state,congressional_district,party,candidatevotes,totalvotes,state_congressional_district
 1976,Alabama,1,REPUBLICAN,98257,157170,alabama_1
 1976,Alabama,2,REPUBLICAN,90069,156362,alabama_2
 1976,Alabama,3,DEMOCRAT,106935,108048,alabama_3
@@ -6,7 +6,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1976,Alabama,5,DEMOCRAT,113553,113560,alabama_5
 1976,Alabama,6,REPUBLICAN,92113,162518,alabama_6
 1976,Alabama,7,DEMOCRAT,110496,110501,alabama_7
-1976,Alaska,0,REPUBLICAN,83722,118208,alaska_0
+1976,Alaska,1,REPUBLICAN,83722,118208,alaska_1
 1976,Arizona,1,REPUBLICAN,96397,168119,arizona_1
 1976,Arizona,2,DEMOCRAT,106054,182128,arizona_2
 1976,Arizona,3,DEMOCRAT,88854,187165,arizona_3
@@ -396,7 +396,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1976,Texas,24,DEMOCRAT,82743,130522,texas_24
 1976,Utah,1,DEMOCRAT,155631,267531,utah_1
 1976,Utah,2,REPUBLICAN,144861,276300,utah_2
-1976,Vermont,0,REPUBLICAN,124458,184783,vermont_0
+1976,Vermont,1,REPUBLICAN,124458,184783,vermont_1
 1976,Virginia,1,REPUBLICAN,71789,147850,virginia_1
 1976,Virginia,2,REPUBLICAN,79381,120847,virginia_2
 1976,Virginia,3,DEMOCRAT,129066,146788,virginia_3
@@ -435,7 +435,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1978,Alabama,5,DEMOCRAT,68985,71236,alabama_5
 1978,Alabama,6,REPUBLICAN,65700,106471,alabama_6
 1978,Alabama,7,DEMOCRAT,77742,82868,alabama_7
-1978,Alaska,0,REPUBLICAN,68811,124187,alaska_0
+1978,Alaska,1,REPUBLICAN,68811,124187,alaska_1
 1978,Arizona,1,REPUBLICAN,81108,114286,arizona_1
 1978,Arizona,2,DEMOCRAT,67878,129197,arizona_2
 1978,Arizona,3,DEMOCRAT,111850,131663,arizona_3
@@ -816,7 +816,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1978,Texas,24,DEMOCRAT,39201,72515,texas_24
 1978,Utah,1,DEMOCRAT,93892,183994,utah_1
 1978,Utah,2,REPUBLICAN,121492,195166,utah_2
-1978,Vermont,0,REPUBLICAN,90688,120502,vermont_0
+1978,Vermont,1,REPUBLICAN,90688,120502,vermont_1
 1978,Virginia,1,REPUBLICAN,89158,123741,virginia_1
 1978,Virginia,2,REPUBLICAN,63512,63530,virginia_2
 1978,Virginia,3,DEMOCRAT,104550,119217,virginia_3
@@ -855,7 +855,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1980,Alabama,5,DEMOCRAT,117626,125356,alabama_5
 1980,Alabama,6,REPUBLICAN,95019,187982,alabama_6
 1980,Alabama,7,DEMOCRAT,122505,168804,alabama_7
-1980,Alaska,0,REPUBLICAN,114089,154618,alaska_0
+1980,Alaska,1,REPUBLICAN,114089,154618,alaska_1
 1980,Arizona,1,REPUBLICAN,136961,186833,arizona_1
 1980,Arizona,2,DEMOCRAT,127736,219686,arizona_2
 1980,Arizona,3,DEMOCRAT,141448,219822,arizona_3
@@ -903,7 +903,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1980,California,40,REPUBLICAN,213999,304997,california_40
 1980,California,41,REPUBLICAN,123187,233918,california_41
 1980,California,42,REPUBLICAN,79713,149649,california_42
-1980,California,43,REPUBLICAN,298815,345176,california_43
 1980,Colorado,1,DEMOCRAT,107364,179622,colorado_1
 1980,Colorado,2,DEMOCRAT,153550,272270,colorado_2
 1980,Colorado,3,DEMOCRAT,105820,192782,colorado_3
@@ -1245,7 +1244,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1980,Texas,24,DEMOCRAT,93690,152862,texas_24
 1980,Utah,1,REPUBLICAN,157111,301570,utah_1
 1980,Utah,2,REPUBLICAN,194885,290765,utah_2
-1980,Vermont,0,REPUBLICAN,154274,194697,vermont_0
+1980,Vermont,1,REPUBLICAN,154274,194697,vermont_1
 1980,Virginia,1,REPUBLICAN,130130,143839,virginia_1
 1980,Virginia,2,REPUBLICAN,97319,108328,virginia_2
 1980,Virginia,3,REPUBLICAN,96524,186912,virginia_3
@@ -1284,7 +1283,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1982,Alabama,5,DEMOCRAT,108807,134880,alabama_5
 1982,Alabama,6,DEMOCRAT,88029,165387,alabama_6
 1982,Alabama,7,DEMOCRAT,124070,128139,alabama_7
-1982,Alaska,0,REPUBLICAN,128274,181084,alaska_0
+1982,Alaska,1,REPUBLICAN,128274,181084,alaska_1
 1982,Arizona,1,REPUBLICAN,89116,135227,arizona_1
 1982,Arizona,2,DEMOCRAT,73468,103674,arizona_2
 1982,Arizona,3,REPUBLICAN,101198,159842,arizona_3
@@ -1668,7 +1667,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1982,Utah,1,REPUBLICAN,111416,177422,utah_1
 1982,Utah,2,REPUBLICAN,92109,171090,utah_2
 1982,Utah,3,REPUBLICAN,108478,141139,utah_3
-1982,Vermont,0,REPUBLICAN,114191,164951,vermont_0
+1982,Vermont,1,REPUBLICAN,114191,164951,vermont_1
 1982,Virginia,1,REPUBLICAN,76926,142802,virginia_1
 1982,Virginia,2,REPUBLICAN,78108,78205,virginia_2
 1982,Virginia,3,REPUBLICAN,92928,156891,virginia_3
@@ -1708,7 +1707,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1984,Alabama,5,DEMOCRAT,140542,146575,alabama_5
 1984,Alabama,6,DEMOCRAT,130973,219710,alabama_6
 1984,Alabama,7,DEMOCRAT,135834,140332,alabama_7
-1984,Alaska,0,REPUBLICAN,113582,206437,alaska_0
+1984,Alaska,1,REPUBLICAN,113582,206437,alaska_1
 1984,Arizona,1,REPUBLICAN,162418,208027,arizona_1
 1984,Arizona,2,DEMOCRAT,106332,121215,arizona_2
 1984,Arizona,3,REPUBLICAN,156686,218328,arizona_3
@@ -2087,7 +2086,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1984,Utah,1,REPUBLICAN,142952,200717,utah_1
 1984,Utah,2,REPUBLICAN,105540,213793,utah_2
 1984,Utah,3,REPUBLICAN,138918,186572,utah_3
-1984,Vermont,0,REPUBLICAN,148025,226297,vermont_0
+1984,Vermont,1,REPUBLICAN,148025,226297,vermont_1
 1984,Virginia,1,REPUBLICAN,118085,199822,virginia_1
 1984,Virginia,2,REPUBLICAN,136632,136888,virginia_2
 1984,Virginia,3,REPUBLICAN,169987,198567,virginia_3
@@ -2127,7 +2126,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1986,Alabama,5,DEMOCRAT,125406,158934,alabama_5
 1986,Alabama,6,DEMOCRAT,139608,191976,alabama_6
 1986,Alabama,7,DEMOCRAT,108126,180903,alabama_7
-1986,Alaska,0,REPUBLICAN,101799,180277,alaska_0
+1986,Alaska,1,REPUBLICAN,101799,180277,alaska_1
 1986,Arizona,1,REPUBLICAN,127370,178533,arizona_1
 1986,Arizona,2,DEMOCRAT,77239,105407,arizona_2
 1986,Arizona,3,REPUBLICAN,146462,146462,arizona_3
@@ -2508,7 +2507,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1986,Utah,1,REPUBLICAN,82151,159331,utah_1
 1986,Utah,2,DEMOCRAT,76921,139390,utah_2
 1986,Utah,3,REPUBLICAN,86599,130074,utah_3
-1986,Vermont,0,REPUBLICAN,168403,188954,vermont_0
+1986,Vermont,1,REPUBLICAN,168403,188954,vermont_1
 1986,Virginia,1,REPUBLICAN,80713,144086,virginia_1
 1986,Virginia,2,DEMOCRAT,54491,110169,virginia_2
 1986,Virginia,3,REPUBLICAN,74525,111179,virginia_3
@@ -2548,7 +2547,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1988,Alabama,5,DEMOCRAT,120142,186623,alabama_5
 1988,Alabama,6,DEMOCRAT,138920,209026,alabama_6
 1988,Alabama,7,DEMOCRAT,136074,200966,alabama_7
-1988,Alaska,0,REPUBLICAN,120595,192955,alaska_0
+1988,Alaska,1,REPUBLICAN,120595,192955,alaska_1
 1988,Arizona,1,REPUBLICAN,184639,256027,arizona_1
 1988,Arizona,2,DEMOCRAT,99895,136204,arizona_2
 1988,Arizona,3,REPUBLICAN,174453,253330,arizona_3
@@ -2927,7 +2926,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1988,Utah,1,REPUBLICAN,130893,218869,utah_1
 1988,Utah,2,DEMOCRAT,112129,195338,utah_2
 1988,Utah,3,REPUBLICAN,129951,194461,utah_3
-1988,Vermont,0,REPUBLICAN,98937,240131,vermont_0
+1988,Vermont,1,REPUBLICAN,98937,240131,vermont_1
 1988,Virginia,1,REPUBLICAN,135937,185573,virginia_1
 1988,Virginia,2,DEMOCRAT,106666,176208,virginia_2
 1988,Virginia,3,REPUBLICAN,187354,187898,virginia_3
@@ -2967,7 +2966,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1990,Alabama,5,DEMOCRAT,113047,168383,alabama_5
 1990,Alabama,6,DEMOCRAT,134412,144797,alabama_6
 1990,Alabama,7,DEMOCRAT,127490,180794,alabama_7
-1990,Alaska,0,REPUBLICAN,99003,191647,alaska_0
+1990,Alaska,1,REPUBLICAN,99003,191647,alaska_1
 1990,Arizona,1,REPUBLICAN,166223,167016,arizona_1
 1990,Arizona,2,DEMOCRAT,76549,116179,arizona_2
 1990,Arizona,3,REPUBLICAN,134279,237297,arizona_3
@@ -3350,7 +3349,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1990,Utah,1,REPUBLICAN,82746,158666,utah_1
 1990,Utah,2,DEMOCRAT,85167,147871,utah_2
 1990,Utah,3,DEMOCRAT,79163,135676,utah_3
-1990,Vermont,0,INDEPENDENT,117522,209856,vermont_0
+1990,Vermont,1,INDEPENDENT,117522,209856,vermont_1
 1990,Virginia,1,REPUBLICAN,72000,141293,virginia_1
 1990,Virginia,2,DEMOCRAT,55179,73618,virginia_2
 1990,Virginia,3,REPUBLICAN,77125,118154,virginia_3
@@ -3390,7 +3389,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1992,Alabama,5,DEMOCRAT,160060,244133,alabama_5
 1992,Alabama,6,REPUBLICAN,146599,280139,alabama_6
 1992,Alabama,7,DEMOCRAT,144320,207773,alabama_7
-1992,Alaska,0,REPUBLICAN,111849,239116,alaska_0
+1992,Alaska,1,REPUBLICAN,111849,239116,alaska_1
 1992,Arizona,1,DEMOCRAT,130715,254789,arizona_1
 1992,Arizona,2,DEMOCRAT,90693,137378,arizona_2
 1992,Arizona,3,REPUBLICAN,158906,258503,arizona_3
@@ -3779,7 +3778,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1992,Utah,1,REPUBLICAN,160037,245254,utah_1
 1992,Utah,2,DEMOCRAT,127738,252969,utah_2
 1992,Utah,3,DEMOCRAT,135029,228061,utah_3
-1992,Vermont,0,INDEPENDENT,162724,281162,vermont_0
+1992,Vermont,1,INDEPENDENT,162724,281162,vermont_1
 1992,Virginia,1,REPUBLICAN,133537,232051,virginia_1
 1992,Virginia,2,DEMOCRAT,99253,177133,virginia_2
 1992,Virginia,3,DEMOCRAT,132432,168473,virginia_3
@@ -3820,7 +3819,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1994,Alabama,5,DEMOCRAT,88693,175693,alabama_5
 1994,Alabama,6,REPUBLICAN,155047,196222,alabama_6
 1994,Alabama,7,DEMOCRAT,116150,151117,alabama_7
-1994,Alaska,0,REPUBLICAN,118537,208240,alaska_0
+1994,Alaska,1,REPUBLICAN,118537,208240,alaska_1
 1994,Arizona,1,REPUBLICAN,101350,180867,arizona_1
 1994,Arizona,2,DEMOCRAT,62589,100446,arizona_2
 1994,Arizona,3,REPUBLICAN,145396,207335,arizona_3
@@ -4201,7 +4200,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1994,Utah,1,REPUBLICAN,104954,162618,utah_1
 1994,Utah,2,REPUBLICAN,85507,186585,utah_2
 1994,Utah,3,DEMOCRAT,91505,155146,utah_3
-1994,Vermont,0,INDEPENDENT,105502,211449,vermont_0
+1994,Vermont,1,INDEPENDENT,105502,211449,vermont_1
 1994,Virginia,1,REPUBLICAN,142930,192496,virginia_1
 1994,Virginia,2,DEMOCRAT,81372,137802,virginia_2
 1994,Virginia,3,DEMOCRAT,108532,136620,virginia_3
@@ -4242,7 +4241,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1996,Alabama,5,DEMOCRAT,114442,205547,alabama_5
 1996,Alabama,6,REPUBLICAN,180781,254859,alabama_6
 1996,Alabama,7,DEMOCRAT,136651,192113,alabama_7
-1996,Alaska,0,REPUBLICAN,138834,233700,alaska_0
+1996,Alaska,1,REPUBLICAN,138834,233700,alaska_1
 1996,Arizona,1,REPUBLICAN,135634,225372,arizona_1
 1996,Arizona,2,DEMOCRAT,81982,126101,arizona_2
 1996,Arizona,3,REPUBLICAN,175231,263445,arizona_3
@@ -4630,7 +4629,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1996,Utah,1,REPUBLICAN,150126,219779,utah_1
 1996,Utah,2,REPUBLICAN,129963,236321,utah_2
 1996,Utah,3,REPUBLICAN,106220,207715,utah_3
-1996,Vermont,0,INDEPENDENT,140678,254706,vermont_0
+1996,Vermont,1,INDEPENDENT,140678,254706,vermont_1
 1996,Virginia,1,REPUBLICAN,165574,167235,virginia_1
 1996,Virginia,2,DEMOCRAT,106215,163996,virginia_2
 1996,Virginia,3,DEMOCRAT,118603,144418,virginia_3
@@ -4671,7 +4670,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1998,Alabama,5,DEMOCRAT,134819,193490,alabama_5
 1998,Alabama,6,REPUBLICAN,154761,215582,alabama_6
 1998,Alabama,7,DEMOCRAT,136431,139181,alabama_7
-1998,Alaska,0,REPUBLICAN,139676,223300,alaska_0
+1998,Alaska,1,REPUBLICAN,139676,223300,alaska_1
 1998,Arizona,1,REPUBLICAN,98840,152948,arizona_1
 1998,Arizona,2,DEMOCRAT,57178,84363,arizona_2
 1998,Arizona,3,REPUBLICAN,137618,204623,arizona_3
@@ -5044,7 +5043,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 1998,Utah,1,REPUBLICAN,109708,162085,utah_1
 1998,Utah,2,REPUBLICAN,93718,177641,utah_2
 1998,Utah,3,REPUBLICAN,100830,131123,utah_3
-1998,Vermont,0,INDEPENDENT,136403,215133,vermont_0
+1998,Vermont,1,INDEPENDENT,136403,215133,vermont_1
 1998,Virginia,1,REPUBLICAN,76474,100057,virginia_1
 1998,Virginia,2,DEMOCRAT,67975,72091,virginia_2
 1998,Virginia,3,DEMOCRAT,48129,63354,virginia_3
@@ -5085,7 +5084,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2000,Alabama,5,DEMOCRAT,186059,209514,alabama_5
 2000,Alabama,6,REPUBLICAN,212751,241917,alabama_6
 2000,Alabama,7,DEMOCRAT,148243,198633,alabama_7
-2000,Alaska,0,REPUBLICAN,190862,274393,alaska_0
+2000,Alaska,1,REPUBLICAN,190862,274393,alaska_1
 2000,Arizona,1,REPUBLICAN,123289,229971,arizona_1
 2000,Arizona,2,DEMOCRAT,84034,122605,arizona_2
 2000,Arizona,3,REPUBLICAN,198367,301970,arizona_3
@@ -5477,7 +5476,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2000,Utah,1,REPUBLICAN,180591,261805,utah_1
 2000,Utah,2,DEMOCRAT,145021,259601,utah_2
 2000,Utah,3,REPUBLICAN,138943,237348,utah_3
-2000,Vermont,0,INDEPENDENT,196118,283366,vermont_0
+2000,Vermont,1,INDEPENDENT,196118,283366,vermont_1
 2000,Virginia,1,REPUBLICAN,151344,263014,virginia_1
 2000,Virginia,2,REPUBLICAN,97856,188329,virginia_2
 2000,Virginia,3,DEMOCRAT,137527,140753,virginia_3
@@ -5518,7 +5517,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2002,Alabama,5,DEMOCRAT,143029,195171,alabama_5
 2002,Alabama,6,REPUBLICAN,178171,198346,alabama_6
 2002,Alabama,7,DEMOCRAT,153735,166309,alabama_7
-2002,Alaska,0,REPUBLICAN,169685,227725,alaska_0
+2002,Alaska,1,REPUBLICAN,169685,227725,alaska_1
 2002,Arizona,1,REPUBLICAN,85967,174687,arizona_1
 2002,Arizona,2,REPUBLICAN,100359,167502,arizona_2
 2002,Arizona,3,REPUBLICAN,104847,155751,arizona_3
@@ -5907,7 +5906,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2002,Utah,1,REPUBLICAN,109265,179412,utah_1
 2002,Utah,2,DEMOCRAT,110764,224098,utah_2
 2002,Utah,3,REPUBLICAN,103598,153643,utah_3
-2002,Vermont,0,INDEPENDENT,144880,225255,vermont_0
+2002,Vermont,1,INDEPENDENT,144880,225255,vermont_1
 2002,Virginia,1,REPUBLICAN,113168,117997,virginia_1
 2002,Virginia,2,REPUBLICAN,103807,124846,virginia_2
 2002,Virginia,3,DEMOCRAT,87521,91073,virginia_3
@@ -5947,7 +5946,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2004,Alabama,5,DEMOCRAT,200999,275459,alabama_5
 2004,Alabama,6,REPUBLICAN,264819,268043,alabama_6
 2004,Alabama,7,DEMOCRAT,183408,244638,alabama_7
-2004,Alaska,0,REPUBLICAN,213216,299996,alaska_0
+2004,Alaska,1,REPUBLICAN,213216,299996,alaska_1
 2004,Arizona,1,REPUBLICAN,148315,253351,arizona_1
 2004,Arizona,2,REPUBLICAN,165260,279303,arizona_2
 2004,Arizona,3,REPUBLICAN,181012,225974,arizona_3
@@ -6335,7 +6334,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2004,Utah,1,REPUBLICAN,199615,293961,utah_1
 2004,Utah,2,DEMOCRAT,187250,341968,utah_2
 2004,Utah,3,REPUBLICAN,173010,272928,utah_3
-2004,Vermont,0,INDEPENDENT,205774,305008,vermont_0
+2004,Vermont,1,INDEPENDENT,205774,305008,vermont_1
 2004,Virginia,1,REPUBLICAN,225071,286534,virginia_1
 2004,Virginia,2,REPUBLICAN,132946,241380,virginia_2
 2004,Virginia,3,DEMOCRAT,159373,229892,virginia_3
@@ -6375,7 +6374,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2006,Alabama,5,DEMOCRAT,143015,145555,alabama_5
 2006,Alabama,6,REPUBLICAN,163514,166300,alabama_6
 2006,Alabama,7,DEMOCRAT,133870,135164,alabama_7
-2006,Alaska,0,REPUBLICAN,132743,234645,alaska_0
+2006,Alaska,1,REPUBLICAN,132743,234645,alaska_1
 2006,Arizona,1,REPUBLICAN,105646,204139,arizona_1
 2006,Arizona,2,REPUBLICAN,135150,230560,arizona_2
 2006,Arizona,3,REPUBLICAN,112519,189849,arizona_3
@@ -6765,7 +6764,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2006,Utah,1,REPUBLICAN,112546,178474,utah_1
 2006,Utah,2,DEMOCRAT,133231,225818,utah_2
 2006,Utah,3,REPUBLICAN,95455,165398,utah_3
-2006,Vermont,0,DEMOCRAT,139815,262726,vermont_0
+2006,Vermont,1,DEMOCRAT,139815,262726,vermont_1
 2006,Virginia,1,REPUBLICAN,143889,228534,virginia_1
 2006,Virginia,2,REPUBLICAN,88777,173159,virginia_2
 2006,Virginia,3,DEMOCRAT,133546,138994,virginia_3
@@ -6805,7 +6804,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2008,Alabama,5,DEMOCRAT,158324,307282,alabama_5
 2008,Alabama,6,REPUBLICAN,280902,287237,alabama_6
 2008,Alabama,7,DEMOCRAT,228518,231701,alabama_7
-2008,Alaska,0,REPUBLICAN,158939,316978,alaska_0
+2008,Alaska,1,REPUBLICAN,158939,316978,alaska_1
 2008,Arizona,1,DEMOCRAT,155791,278787,arizona_1
 2008,Arizona,2,REPUBLICAN,200914,338023,arizona_2
 2008,Arizona,3,REPUBLICAN,148800,275161,arizona_3
@@ -7027,7 +7026,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2008,Missouri,7,REPUBLICAN,219016,323212,missouri_7
 2008,Missouri,8,REPUBLICAN,198798,278288,missouri_8
 2008,Missouri,9,REPUBLICAN,161031,322095,missouri_9
-2008,Montana,0,REPUBLICAN,308470,480900,montana_0
 2008,Nebraska,1,REPUBLICAN,184923,262820,nebraska_1
 2008,Nebraska,2,REPUBLICAN,142473,274374,nebraska_2
 2008,Nebraska,3,REPUBLICAN,183117,238204,nebraska_3
@@ -7195,7 +7193,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2008,Utah,1,REPUBLICAN,196799,303445,utah_1
 2008,Utah,2,DEMOCRAT,220666,348325,utah_2
 2008,Utah,3,REPUBLICAN,187035,285069,utah_3
-2008,Vermont,0,DEMOCRAT,248203,298151,vermont_0
+2008,Vermont,1,DEMOCRAT,248203,298151,vermont_1
 2008,Virginia,1,REPUBLICAN,203839,360292,virginia_1
 2008,Virginia,2,DEMOCRAT,141857,270711,virginia_2
 2008,Virginia,3,DEMOCRAT,239911,247288,virginia_3
@@ -7235,7 +7233,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2010,Alabama,5,REPUBLICAN,131109,226490,alabama_5
 2010,Alabama,6,REPUBLICAN,205288,209364,alabama_6
 2010,Alabama,7,DEMOCRAT,136696,188724,alabama_7
-2010,Alaska,0,REPUBLICAN,175384,254335,alaska_0
+2010,Alaska,1,REPUBLICAN,175384,254335,alaska_1
 2010,Arizona,1,REPUBLICAN,112816,226918,arizona_1
 2010,Arizona,2,REPUBLICAN,173173,266894,arizona_2
 2010,Arizona,3,REPUBLICAN,108689,208071,arizona_3
@@ -7627,7 +7625,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2010,Utah,1,REPUBLICAN,135247,195462,utah_1
 2010,Utah,2,DEMOCRAT,127151,251847,utah_2
 2010,Utah,3,REPUBLICAN,139721,193186,utah_3
-2010,Vermont,0,DEMOCRAT,154006,238521,vermont_0
+2010,Vermont,1,DEMOCRAT,154006,238521,vermont_1
 2010,Virginia,1,REPUBLICAN,135564,212236,virginia_1
 2010,Virginia,2,REPUBLICAN,88340,166289,virginia_2
 2010,Virginia,3,DEMOCRAT,114754,163900,virginia_3
@@ -7667,7 +7665,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2012,Alabama,5,REPUBLICAN,189185,291293,alabama_5
 2012,Alabama,6,REPUBLICAN,219262,308102,alabama_6
 2012,Alabama,7,DEMOCRAT,232520,306558,alabama_7
-2012,Alaska,0,REPUBLICAN,185296,289804,alaska_0
+2012,Alaska,1,REPUBLICAN,185296,289804,alaska_1
 2012,Arizona,1,DEMOCRAT,122774,251595,arizona_1
 2012,Arizona,2,DEMOCRAT,147338,292279,arizona_2
 2012,Arizona,3,DEMOCRAT,98468,168698,arizona_3
@@ -7890,7 +7888,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2012,Missouri,6,REPUBLICAN,216906,333688,missouri_6
 2012,Missouri,7,REPUBLICAN,203565,318740,missouri_7
 2012,Missouri,8,REPUBLICAN,216083,300391,missouri_8
-2012,Montana,0,REPUBLICAN,255468,479740,montana_0
 2012,Nebraska,1,REPUBLICAN,174889,256095,nebraska_1
 2012,Nebraska,2,REPUBLICAN,133964,263731,nebraska_2
 2012,Nebraska,3,REPUBLICAN,187423,252689,nebraska_3
@@ -7983,7 +7980,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2012,Oregon,4,DEMOCRAT,212866,360088,oregon_4
 2012,Oregon,5,DEMOCRAT,177229,327970,oregon_5
 2012,Pennsylvania,1,DEMOCRAT,235394,277102,pennsylvania_1
-2012,Pennsylvania,2,DEMOCRAT,318176,356386,pennsylvania_2
 2012,Pennsylvania,3,REPUBLICAN,165826,302514,pennsylvania_3
 2012,Pennsylvania,4,REPUBLICAN,181603,303980,pennsylvania_4
 2012,Pennsylvania,5,REPUBLICAN,177740,282465,pennsylvania_5
@@ -8059,7 +8055,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2012,Utah,2,REPUBLICAN,154523,248545,utah_2
 2012,Utah,3,REPUBLICAN,198828,259547,utah_3
 2012,Utah,4,DEMOCRAT,119803,245277,utah_4
-2012,Vermont,0,DEMOCRAT,208600,289931,vermont_0
+2012,Vermont,1,DEMOCRAT,208600,289931,vermont_1
 2012,Virginia,1,REPUBLICAN,200845,356806,virginia_1
 2012,Virginia,2,REPUBLICAN,166231,309222,virginia_2
 2012,Virginia,3,DEMOCRAT,259199,318936,virginia_3
@@ -8077,7 +8073,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2012,Washington,4,REPUBLICAN,154749,233689,washington_4
 2012,Washington,5,REPUBLICAN,191066,308578,washington_5
 2012,Washington,6,DEMOCRAT,186661,316386,washington_6
-2012,Washington,7,DEMOCRAT,298368,374580,washington_7
 2012,Washington,8,REPUBLICAN,180204,302090,washington_8
 2012,Washington,9,DEMOCRAT,192034,268139,washington_9
 2012,Washington,10,DEMOCRAT,163036,278417,washington_10
@@ -8100,7 +8095,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2014,Alabama,5,REPUBLICAN,115338,154974,alabama_5
 2014,Alabama,6,REPUBLICAN,135945,178449,alabama_6
 2014,Alabama,7,DEMOCRAT,133687,135899,alabama_7
-2014,Alaska,0,REPUBLICAN,142572,279741,alaska_0
+2014,Alaska,1,REPUBLICAN,142572,279741,alaska_1
 2014,Arizona,1,DEMOCRAT,97391,185114,arizona_1
 2014,Arizona,2,REPUBLICAN,109704,219351,arizona_2
 2014,Arizona,3,DEMOCRAT,58192,104428,arizona_3
@@ -8489,7 +8484,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2014,Utah,2,REPUBLICAN,88915,146188,utah_2
 2014,Utah,3,REPUBLICAN,102952,142580,utah_3
 2014,Utah,4,REPUBLICAN,74936,147168,utah_4
-2014,Vermont,0,DEMOCRAT,123349,191504,vermont_0
+2014,Vermont,1,DEMOCRAT,123349,191504,vermont_1
 2014,Virginia,1,REPUBLICAN,131861,209621,virginia_1
 2014,Virginia,2,REPUBLICAN,101558,173060,virginia_2
 2014,Virginia,3,DEMOCRAT,139197,147402,virginia_3
@@ -8530,7 +8525,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2016,Alabama,5,REPUBLICAN,205647,308326,alabama_5
 2016,Alabama,6,REPUBLICAN,245313,329306,alabama_6
 2016,Alabama,7,DEMOCRAT,229330,233028,alabama_7
-2016,Alaska,0,REPUBLICAN,155088,308198,alaska_0
+2016,Alaska,1,REPUBLICAN,155088,308198,alaska_1
 2016,Arizona,1,DEMOCRAT,142219,280710,arizona_1
 2016,Arizona,2,REPUBLICAN,179806,315679,arizona_2
 2016,Arizona,3,DEMOCRAT,148973,151035,arizona_3
@@ -8598,7 +8593,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2016,California,52,DEMOCRAT,181253,320656,california_52
 2016,California,53,DEMOCRAT,198988,296956,california_53
 2016,Colorado,1,DEMOCRAT,257254,379036,colorado_1
-2016,Colorado,2,DEMOCRAT,260175,457312,colorado_2
 2016,Colorado,3,REPUBLICAN,204220,374037,colorado_3
 2016,Colorado,4,REPUBLICAN,248230,390633,colorado_4
 2016,Colorado,5,REPUBLICAN,225445,361993,colorado_5
@@ -8716,7 +8710,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2016,Massachusetts,3,DEMOCRAT,236713,360124,massachusetts_3
 2016,Massachusetts,4,DEMOCRAT,265823,395304,massachusetts_4
 2016,Massachusetts,5,DEMOCRAT,285606,385455,massachusetts_5
-2016,Massachusetts,6,DEMOCRAT,308923,415749,massachusetts_6
 2016,Massachusetts,7,DEMOCRAT,253354,309645,massachusetts_7
 2016,Massachusetts,8,DEMOCRAT,271019,396009,massachusetts_8
 2016,Massachusetts,9,DEMOCRAT,211790,403642,massachusetts_9
@@ -8845,7 +8838,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2016,Oregon,4,DEMOCRAT,220628,397568,oregon_4
 2016,Oregon,5,DEMOCRAT,199505,373108,oregon_5
 2016,Pennsylvania,1,DEMOCRAT,245791,299010,pennsylvania_1
-2016,Pennsylvania,2,DEMOCRAT,322514,357645,pennsylvania_2
 2016,Pennsylvania,3,REPUBLICAN,244893,244893,pennsylvania_3
 2016,Pennsylvania,4,REPUBLICAN,220628,334000,pennsylvania_4
 2016,Pennsylvania,5,REPUBLICAN,206761,307843,pennsylvania_5
@@ -8921,7 +8913,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2016,Utah,2,REPUBLICAN,170524,276819,utah_2
 2016,Utah,3,REPUBLICAN,209589,285305,utah_3
 2016,Utah,4,REPUBLICAN,147597,274569,utah_4
-2016,Vermont,0,DEMOCRAT,264414,320467,vermont_0
+2016,Vermont,1,DEMOCRAT,264414,320467,vermont_1
 2016,Virginia,1,REPUBLICAN,230213,384601,virginia_1
 2016,Virginia,2,REPUBLICAN,190475,310567,virginia_2
 2016,Virginia,3,DEMOCRAT,208337,312340,virginia_3
@@ -8962,7 +8954,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2018,Alabama,5,REPUBLICAN,159063,260673,alabama_5
 2018,Alabama,6,REPUBLICAN,192542,278328,alabama_6
 2018,Alabama,7,DEMOCRAT,185010,189163,alabama_7
-2018,Alaska,0,REPUBLICAN,149779,282166,alaska_0
+2018,Alaska,1,REPUBLICAN,149779,282166,alaska_1
 2018,Arizona,1,DEMOCRAT,143240,266089,arizona_1
 2018,Arizona,2,DEMOCRAT,161000,294152,arizona_2
 2018,Arizona,3,DEMOCRAT,114650,179518,arizona_3
@@ -9351,7 +9343,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2018,Utah,2,REPUBLICAN,151489,270044,utah_2
 2018,Utah,3,REPUBLICAN,174856,258858,utah_3
 2018,Utah,4,DEMOCRAT,134964,269271,utah_4
-2018,Vermont,0,DEMOCRAT,188547,272451,vermont_0
+2018,Vermont,1,DEMOCRAT,188547,272451,vermont_1
 2018,Virginia,1,REPUBLICAN,183250,332101,virginia_1
 2018,Virginia,2,DEMOCRAT,139571,273400,virginia_2
 2018,Virginia,3,DEMOCRAT,198615,217722,virginia_3
@@ -9369,7 +9361,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2018,Washington,4,REPUBLICAN,141551,225336,washington_4
 2018,Washington,5,REPUBLICAN,175422,320347,washington_5
 2018,Washington,6,DEMOCRAT,206409,323086,washington_6
-2018,Washington,7,DEMOCRAT,329800,394681,washington_7
 2018,Washington,8,DEMOCRAT,164089,313057,washington_8
 2018,Washington,9,DEMOCRAT,163345,240567,washington_9
 2018,Washington,10,DEMOCRAT,166215,270075,washington_10
@@ -9377,7 +9368,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2018,West Virginia,2,REPUBLICAN,110504,204792,west virginia_2
 2018,West Virginia,3,REPUBLICAN,98645,174985,west virginia_3
 2018,Wisconsin,1,REPUBLICAN,177492,325317,wisconsin_1
-2018,Wisconsin,2,DEMOCRAT,309116,317295,wisconsin_2
 2018,Wisconsin,3,DEMOCRAT,187888,314989,wisconsin_3
 2018,Wisconsin,4,DEMOCRAT,206487,273087,wisconsin_4
 2018,Wisconsin,5,REPUBLICAN,225619,364288,wisconsin_5
@@ -9392,7 +9382,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Alabama,5,REPUBLICAN,253094,264160,alabama_5
 2020,Alabama,6,REPUBLICAN,274160,282261,alabama_6
 2020,Alabama,7,DEMOCRAT,225742,232331,alabama_7
-2020,Alaska,0,REPUBLICAN,192126,353165,alaska_0
+2020,Alaska,1,REPUBLICAN,192126,353165,alaska_1
 2020,Arizona,1,DEMOCRAT,188469,365178,arizona_1
 2020,Arizona,2,DEMOCRAT,209945,381054,arizona_2
 2020,Arizona,3,DEMOCRAT,174243,269837,arizona_3
@@ -9407,7 +9397,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Arkansas,3,REPUBLICAN,214960,334262,arkansas_3
 2020,Arkansas,4,REPUBLICAN,191617,275035,arkansas_4
 2020,California,1,REPUBLICAN,204190,358263,california_1
-2020,California,2,DEMOCRAT,294435,388755,california_2
 2020,California,3,DEMOCRAT,176043,321988,california_3
 2020,California,4,REPUBLICAN,247291,442022,california_4
 2020,California,5,DEMOCRAT,271233,356460,california_5
@@ -9418,7 +9407,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,California,10,DEMOCRAT,166865,302494,california_10
 2020,California,11,DEMOCRAT,271063,371356,california_11
 2020,California,12,DEMOCRAT,281776,362950,california_12
-2020,California,13,DEMOCRAT,327863,362818,california_13
 2020,California,14,DEMOCRAT,278300,351005,california_14
 2020,California,15,DEMOCRAT,242991,342701,california_15
 2020,California,16,DEMOCRAT,128690,216729,california_16
@@ -9459,9 +9447,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,California,51,DEMOCRAT,165596,242437,california_51
 2020,California,52,DEMOCRAT,244145,396495,california_52
 2020,California,53,DEMOCRAT,199244,334858,california_53
-2020,Colorado,1,DEMOCRAT,331621,450290,colorado_1
 2020,Colorado,3,REPUBLICAN,220634,429319,colorado_3
-2020,Colorado,4,REPUBLICAN,285606,475107,colorado_4
 2020,Colorado,5,REPUBLICAN,249013,432407,colorado_5
 2020,Colorado,6,DEMOCRAT,250314,438473,colorado_6
 2020,Colorado,7,DEMOCRAT,250525,423691,colorado_7
@@ -9470,23 +9456,17 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Connecticut,3,DEMOCRAT,194259,346103,connecticut_3
 2020,Connecticut,4,DEMOCRAT,224432,360716,connecticut_4
 2020,Connecticut,5,DEMOCRAT,183797,349524,connecticut_5
-2020,Delaware,0,DEMOCRAT,281382,488270,delaware_0
 2020,District of Columbia,0,DEMOCRAT,281831,344177,district of columbia_0
 2020,Florida,1,REPUBLICAN,283352,438562,florida_1
-2020,Florida,2,REPUBLICAN,305337,311999,florida_2
 2020,Florida,3,REPUBLICAN,223075,390401,florida_3
 2020,Florida,5,DEMOCRAT,219463,336973,florida_5
 2020,Florida,6,REPUBLICAN,265393,437856,florida_6
 2020,Florida,7,DEMOCRAT,224946,406449,florida_7
-2020,Florida,8,REPUBLICAN,282093,459788,florida_8
 2020,Florida,9,DEMOCRAT,240724,429638,florida_9
 2020,Florida,10,DEMOCRAT,239434,376397,florida_10
-2020,Florida,11,REPUBLICAN,316979,475073,florida_11
-2020,Florida,12,REPUBLICAN,284941,453135,florida_12
 2020,Florida,13,DEMOCRAT,215405,406125,florida_13
 2020,Florida,14,DEMOCRAT,224240,372136,florida_14
 2020,Florida,15,REPUBLICAN,216374,390671,florida_15
-2020,Florida,16,REPUBLICAN,269001,484684,florida_16
 2020,Florida,17,REPUBLICAN,266514,412397,florida_17
 2020,Florida,18,REPUBLICAN,253286,449720,florida_18
 2020,Florida,19,REPUBLICAN,272440,444589,florida_19
@@ -9501,7 +9481,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Georgia,2,DEMOCRAT,161397,273034,georgia_2
 2020,Georgia,3,REPUBLICAN,241526,371318,georgia_3
 2020,Georgia,4,DEMOCRAT,278906,348299,georgia_4
-2020,Georgia,5,DEMOCRAT,301857,354503,georgia_5
 2020,Georgia,6,DEMOCRAT,216775,397104,georgia_6
 2020,Georgia,7,DEMOCRAT,190900,371464,georgia_7
 2020,Georgia,8,REPUBLICAN,198701,308013,georgia_8
@@ -9513,7 +9492,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Georgia,14,REPUBLICAN,229827,307625,georgia_14
 2020,Hawaii,1,DEMOCRAT,183245,283408,hawaii_1
 2020,Hawaii,2,DEMOCRAT,171517,296376,hawaii_2
-2020,Idaho,1,REPUBLICAN,310736,458576,idaho_1
 2020,Idaho,2,REPUBLICAN,250669,391333,idaho_2
 2020,Illinois,1,DEMOCRAT,239943,325123,illinois_1
 2020,Illinois,2,DEMOCRAT,234896,298038,illinois_2
@@ -9544,7 +9522,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Indiana,9,REPUBLICAN,222057,359038,indiana_9
 2020,Iowa,1,REPUBLICAN,212088,423971,iowa_1
 2020,Iowa,2,REPUBLICAN,196964,413989,iowa_2
-2020,Iowa,3,DEMOCRAT,219205,460813,iowa_3
 2020,Iowa,4,REPUBLICAN,237369,401495,iowa_4
 2020,Kansas,1,REPUBLICAN,208229,292622,kansas_1
 2020,Kansas,2,REPUBLICAN,185464,336315,kansas_2
@@ -9576,10 +9553,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Massachusetts,2,DEMOCRAT,249854,394084,massachusetts_2
 2020,Massachusetts,3,DEMOCRAT,286896,388210,massachusetts_3
 2020,Massachusetts,4,DEMOCRAT,251102,434533,massachusetts_4
-2020,Massachusetts,5,DEMOCRAT,294427,413371,massachusetts_5
-2020,Massachusetts,6,DEMOCRAT,286377,452574,massachusetts_6
 2020,Massachusetts,7,DEMOCRAT,267362,326837,massachusetts_7
-2020,Massachusetts,8,DEMOCRAT,310940,433545,massachusetts_8
 2020,Massachusetts,9,DEMOCRAT,260262,442135,massachusetts_9
 2020,Michigan,1,REPUBLICAN,256581,416219,michigan_1
 2020,Michigan,2,REPUBLICAN,238711,403247,michigan_2
@@ -9667,17 +9641,13 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,New York,26,DEMOCRAT,202400,337867,new york_26
 2020,New York,27,REPUBLICAN,192619,397802,new york_27
 2020,North Carolina,1,DEMOCRAT,188870,348618,north carolina_1
-2020,North Carolina,2,DEMOCRAT,311887,495345,north carolina_2
 2020,North Carolina,3,REPUBLICAN,229800,362552,north carolina_3
-2020,North Carolina,4,DEMOCRAT,332421,493719,north carolina_4
 2020,North Carolina,5,REPUBLICAN,257843,385244,north carolina_5
 2020,North Carolina,6,DEMOCRAT,253531,407129,north carolina_6
-2020,North Carolina,7,REPUBLICAN,272443,452208,north carolina_7
 2020,North Carolina,8,REPUBLICAN,202774,380555,north carolina_8
 2020,North Carolina,9,REPUBLICAN,224661,404124,north carolina_9
 2020,North Carolina,10,REPUBLICAN,284095,412284,north carolina_10
 2020,North Carolina,11,REPUBLICAN,245351,450145,north carolina_11
-2020,North Carolina,12,DEMOCRAT,341457,341457,north carolina_12
 2020,North Carolina,13,REPUBLICAN,267181,391865,north carolina_13
 2020,North Dakota,0,REPUBLICAN,245229,355598,north dakota_0
 2020,Ohio,1,REPUBLICAN,199560,385285,ohio_1
@@ -9701,14 +9671,8 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Oklahoma,3,REPUBLICAN,242677,309178,oklahoma_3
 2020,Oklahoma,4,REPUBLICAN,213096,314358,oklahoma_4
 2020,Oklahoma,5,REPUBLICAN,158191,303849,oklahoma_5
-2020,Oregon,1,DEMOCRAT,297071,459899,oregon_1
-2020,Oregon,2,REPUBLICAN,273835,457433,oregon_2
-2020,Oregon,3,DEMOCRAT,343574,470506,oregon_3
-2020,Oregon,4,DEMOCRAT,240950,467705,oregon_4
-2020,Oregon,5,DEMOCRAT,234863,452646,oregon_5
 2020,Pennsylvania,1,REPUBLICAN,249804,441679,pennsylvania_1
 2020,Pennsylvania,2,DEMOCRAT,198140,273162,pennsylvania_2
-2020,Pennsylvania,3,DEMOCRAT,341708,375379,pennsylvania_3
 2020,Pennsylvania,4,DEMOCRAT,264637,444563,pennsylvania_4
 2020,Pennsylvania,5,DEMOCRAT,255743,395295,pennsylvania_5
 2020,Pennsylvania,6,DEMOCRAT,226440,403966,pennsylvania_6
@@ -9733,7 +9697,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,South Carolina,5,REPUBLICAN,220006,366258,south carolina_5
 2020,South Carolina,6,DEMOCRAT,197477,289653,south carolina_6
 2020,South Carolina,7,REPUBLICAN,224993,364091,south carolina_7
-2020,South Dakota,0,REPUBLICAN,321984,397732,south dakota_0
 2020,Tennessee,1,REPUBLICAN,228181,305423,tennessee_1
 2020,Tennessee,2,REPUBLICAN,238907,353197,tennessee_2
 2020,Tennessee,3,REPUBLICAN,215571,320299,tennessee_3
@@ -9763,7 +9726,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Texas,18,DEMOCRAT,180952,246895,texas_18
 2020,Texas,19,REPUBLICAN,198198,265052,texas_19
 2020,Texas,20,DEMOCRAT,175078,270723,texas_20
-2020,Texas,21,REPUBLICAN,235740,453750,texas_21
 2020,Texas,22,REPUBLICAN,210259,408048,texas_22
 2020,Texas,23,REPUBLICAN,149395,295457,texas_23
 2020,Texas,24,REPUBLICAN,167910,344021,texas_24
@@ -9783,17 +9745,14 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Utah,2,REPUBLICAN,208997,354224,utah_2
 2020,Utah,3,REPUBLICAN,246674,358927,utah_3
 2020,Utah,4,REPUBLICAN,179688,376730,utah_4
-2020,Vermont,0,DEMOCRAT,238827,370968,vermont_0
+2020,Vermont,1,DEMOCRAT,238827,370968,vermont_1
 2020,Virginia,1,REPUBLICAN,260614,448178,virginia_1
 2020,Virginia,2,DEMOCRAT,185733,360277,virginia_2
 2020,Virginia,3,DEMOCRAT,233326,341361,virginia_3
 2020,Virginia,4,DEMOCRAT,241142,391345,virginia_4
 2020,Virginia,5,REPUBLICAN,210988,402317,virginia_5
 2020,Virginia,6,REPUBLICAN,246606,381813,virginia_6
-2020,Virginia,7,DEMOCRAT,230893,454339,virginia_7
-2020,Virginia,8,DEMOCRAT,301454,397745,virginia_8
 2020,Virginia,9,REPUBLICAN,271851,289274,virginia_9
-2020,Virginia,10,DEMOCRAT,268734,475546,virginia_10
 2020,Virginia,11,DEMOCRAT,280725,393241,virginia_11
 2020,Washington,1,DEMOCRAT,249944,426862,washington_1
 2020,Washington,2,DEMOCRAT,255252,404598,washington_2
@@ -9801,7 +9760,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,Washington,4,REPUBLICAN,202108,305263,washington_4
 2020,Washington,5,REPUBLICAN,247815,404360,washington_5
 2020,Washington,6,DEMOCRAT,247429,417216,washington_6
-2020,Washington,7,DEMOCRAT,387109,466462,washington_7
 2020,Washington,8,DEMOCRAT,213123,412112,washington_8
 2020,Washington,9,DEMOCRAT,258771,349050,washington_9
 2020,Washington,10,DEMOCRAT,167937,340407,washington_10
@@ -9809,7 +9767,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2020,West Virginia,2,REPUBLICAN,172195,272994,west virginia_2
 2020,West Virginia,3,REPUBLICAN,161585,226668,west virginia_3
 2020,Wisconsin,1,REPUBLICAN,238271,401754,wisconsin_1
-2020,Wisconsin,2,DEMOCRAT,318523,457205,wisconsin_2
 2020,Wisconsin,3,DEMOCRAT,199870,389618,wisconsin_3
 2020,Wisconsin,4,DEMOCRAT,232668,311697,wisconsin_4
 2020,Wisconsin,5,REPUBLICAN,265434,441599,wisconsin_5
@@ -9824,7 +9781,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2022,Alabama,5,REPUBLICAN,142435,212317,alabama_5
 2022,Alabama,6,REPUBLICAN,154233,184203,alabama_6
 2022,Alabama,7,DEMOCRAT,123233,193940,alabama_7
-2022,Alaska,0,DEMOCRAT,128553,263610,alaska_0
+2022,Alaska,1,DEMOCRAT,128553,263610,alaska_1
 2022,Arizona,1,REPUBLICAN,182336,361477,arizona_1
 2022,Arizona,2,REPUBLICAN,174169,323396,arizona_2
 2022,Arizona,3,DEMOCRAT,108599,141074,arizona_3
@@ -10216,7 +10173,7 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2022,Utah,2,REPUBLICAN,154883,259399,utah_2
 2022,Utah,3,REPUBLICAN,182497,283380,utah_3
 2022,Utah,4,REPUBLICAN,155110,254059,utah_4
-2022,Vermont,0,DEMOCRAT,176494,291955,vermont_0
+2022,Vermont,1,DEMOCRAT,176494,291955,vermont_1
 2022,Virginia,1,REPUBLICAN,191828,342742,virginia_1
 2022,Virginia,2,REPUBLICAN,153328,296996,virginia_2
 2022,Virginia,3,DEMOCRAT,139659,207850,virginia_3
@@ -10234,7 +10191,6 @@ year,state,congressional_district,party,candidatevotes,totalvotes,state_district
 2022,Washington,4,REPUBLICAN,150619,226647,washington_4
 2022,Washington,5,REPUBLICAN,188648,317006,washington_5
 2022,Washington,6,DEMOCRAT,208710,347873,washington_6
-2022,Washington,7,DEMOCRAT,295998,346647,washington_7
 2022,Washington,8,DEMOCRAT,179003,336038,washington_8
 2022,Washington,9,DEMOCRAT,171746,239848,washington_9
 2022,Washington,10,DEMOCRAT,152544,267748,washington_10

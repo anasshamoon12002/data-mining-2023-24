@@ -11,3 +11,4 @@ ipywidgets
 plotly-geo
 notebook
 yellowbrick
+pyclustering

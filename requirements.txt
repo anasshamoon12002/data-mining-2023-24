@@ -12,3 +12,4 @@ plotly-geo
 notebook
 yellowbrick
 pyclustering
+tslearn

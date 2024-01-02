@@ -16,3 +16,4 @@ tslearn
 statsmodels
 h5py
 matrixprofile-ts
+stumpy

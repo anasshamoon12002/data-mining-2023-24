@@ -12,3 +12,7 @@ plotly-geo
 notebook
 yellowbrick
 pyclustering
+tslearn
+statsmodels
+h5py
+matrixprofile-ts
